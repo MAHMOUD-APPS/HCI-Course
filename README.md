@@ -4,15 +4,15 @@ This repository contains coursework, projects, and code samples from Human-Compu
 
 ## Course Structure
 
-| Chapter | Topic | Contents |
-|---------|-------|----------|
-| CH-02 | Eye Tracking | [`Eye Tracking`](CH-02-Eye-Tracking/) |
-| CH-03 | Mouse Interaction in HCI | [`Mouse Interaction in HCI`](CH-03-Mouse-Interaction-in-HCI/) |
-| CH-04 | Virtual Keyboard in HCI | [`Virtual Keyboard in HCI`](CH-04-Virtual-Keyboard-in-HCI/) |
-| CH-05 | Mobile App and Python Script | [`Mobile App and Python Script`](CH-05-Mobile-App-and-Python-Script/) |
-| CH-06 | Recording Acceleration - Mouse | [`Recording Acceleration - Mouse`](CH-06-Recording-Acceleration-Mouse/) |
-| CH-07 | Recording Acceleration - Application | [`Recording Acceleration - Application`](CH-07-Recording-Acceleration-Application/) |
-| CH-08 | Control OS by Hand Gesture | [`Control OS by Hand Gesture`](CH-08-Control-OS-by-Hand-Gesture/) |
+| Chapter | Topic                                | Contents                                                                            | Presented By                | Date           |
+| ------- | ------------------------------------ | ----------------------------------------------------------------------------------- | --------------------------- | -------------- |
+| CH-02   | Eye Tracking                         | [`Eye Tracking`](CH-02-Eye-Tracking/)                                               | Ahmed Maher + Ahmed Soliman | March 25, 2026 |
+| CH-03   | Mouse Interaction in HCI             | [`Mouse Interaction in HCI`](CH-03-Mouse-Interaction-in-HCI/)                       |
+| CH-04   | Virtual Keyboard in HCI              | [`Virtual Keyboard in HCI`](CH-04-Virtual-Keyboard-in-HCI/)                         | Mahmoud Atta + Adel Rafaat  | March 25, 2026 |
+| CH-05   | Mobile App and Python Script         | [`Mobile App and Python Script`](CH-05-Mobile-App-and-Python-Script/)               |
+| CH-06   | Recording Acceleration - Mouse       | [`Recording Acceleration - Mouse`](CH-06-Recording-Acceleration-Mouse/)             |
+| CH-07   | Recording Acceleration - Application | [`Recording Acceleration - Application`](CH-07-Recording-Acceleration-Application/) |
+| CH-08   | Control OS by Hand Gesture           | [`Control OS by Hand Gesture`](CH-08-Control-OS-by-Hand-Gesture/)                   |
 
 ## Repository Structure
 
